@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestProduct.Core\TestProduct.Core.csproj" />
+    <ProjectReference Include="..\TestProduct.Infrastruture\TestProduct.Infrastructure.csproj" />
+    <ProjectReference Include="..\TestProduct\TestProduct.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="InputModels\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\Implementations\" />
+    <Folder Include="Services\Interfaces\" />
+  </ItemGroup>
+
+</Project>

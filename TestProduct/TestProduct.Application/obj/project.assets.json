@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "TestProduct/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TestProduct.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestProduct.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "TestProduct.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TestProduct": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TestProduct.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestProduct.Core.dll": {}
+        }
+      },
+      "TestProduct.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "TestProduct": "1.0.0",
+          "TestProduct.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TestProduct.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestProduct.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestProduct/1.0.0": {
+      "type": "project",
+      "path": "../TestProduct/TestProduct.csproj",
+      "msbuildProject": "../TestProduct/TestProduct.csproj"
+    },
+    "TestProduct.Core/1.0.0": {
+      "type": "project",
+      "path": "../TestProduct.Core/TestProduct.Core.csproj",
+      "msbuildProject": "../TestProduct.Core/TestProduct.Core.csproj"
+    },
+    "TestProduct.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../TestProduct.Infrastruture/TestProduct.Infrastructure.csproj",
+      "msbuildProject": "../TestProduct.Infrastruture/TestProduct.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TestProduct >= 1.0.0",
+      "TestProduct.Core >= 1.0.0",
+      "TestProduct.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\oscar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Application\\TestProduct.Application.csproj",
+      "projectName": "TestProduct.Application",
+      "projectPath": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Application\\TestProduct.Application.csproj",
+      "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Core\\TestProduct.Core.csproj": {
+              "projectPath": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Core\\TestProduct.Core.csproj"
+            },
+            "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Infrastruture\\TestProduct.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct.Infrastruture\\TestProduct.Infrastructure.csproj"
+            },
+            "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\TestProduct.csproj": {
+              "projectPath": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\TestProduct.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
