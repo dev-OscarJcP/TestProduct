@@ -7,10 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="InputModels\" />
-    <Folder Include="Services\Implementations\" />
-    <Folder Include="Services\Interfaces\" />
-    <Folder Include="ViewModels\" />
+    <ProjectReference Include="..\BackEndTestProduct.Core\BackEndTestProduct.Core.csproj" />
+    <ProjectReference Include="..\BackEndTestProduct.Infrastructure\BackEndTestProduct.Infrastructure.csproj" />
+    <ProjectReference Include="..\BackEndTestProduct\BackEndTestProduct.csproj" />
   </ItemGroup>
 
 </Project>
