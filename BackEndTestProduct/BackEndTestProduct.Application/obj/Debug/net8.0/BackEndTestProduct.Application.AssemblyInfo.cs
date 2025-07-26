@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackEndTestProduct.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61bb55502241c86cc6db0a918ed006c916159600")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c52037c3c7044de07a7ce4e09d2f16eb560bc75")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackEndTestProduct.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackEndTestProduct.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

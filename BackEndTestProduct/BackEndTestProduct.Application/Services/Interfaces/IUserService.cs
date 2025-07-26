@@ -9,7 +9,7 @@ namespace BackEndTestProduct.Application.Services.Interfaces
 {
     public interface IUserService
     {
-        List<string> GetAll();
+        List<UserViewModel> GetAll();
         UserViewModel GetById(int id);
         int Create(string name, string email, string password);
         void Delete(int id);

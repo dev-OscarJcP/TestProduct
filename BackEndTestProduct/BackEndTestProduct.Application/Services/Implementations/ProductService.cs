@@ -59,11 +59,13 @@ namespace BackEndTestProduct.Application.Services.Implementations
                 .ToList();
             return productsViewModel;
         }        
-        public void GetById(int id)
+        public int GetById(int id)
         {
-            var product = _AppDbContext.Products.FirstOrDefault(p => p.Id == id);
+            var product = _AppDbContext.Products.SingleOrDefault(p => p.Id == id);
             if (product == null) throw new KeyNotFoundException($"Product with ID {id} not found.");
-            new ProductDetailViewModel(product.Id, product.Name, product.Description, product.Price, product.StockQuantity, product.ExpirationDate, product.Category, product.IsActive);
+            new ProductViewModel(product.Name, product.Description, product.Price, product.StockQuantity, product.Category, product.ExpirationDate);
+            return product.Id;
         }
+
     }
 }

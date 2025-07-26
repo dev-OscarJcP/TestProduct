@@ -8,9 +8,9 @@ namespace BackEndTestProduct.Application.ViewModels
 {
     public class ProductViewModel
     {
-        public ProductViewModel(string name, string description, decimal price, int stockQuantity, string category, DateTime expirationDate)
+        public ProductViewModel(int id, string name, string description, decimal price, int stockQuantity, string category, DateTime expirationDate)
         {
-            
+            id = id;
             Name = name;
             Description = description;
             Price = price;
