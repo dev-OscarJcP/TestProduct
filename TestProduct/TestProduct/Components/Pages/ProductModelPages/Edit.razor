@@ -1,0 +1,109 @@
+﻿@page "/productmodels/edit"
+@using Microsoft.EntityFrameworkCore
+@using TestProduct.Models
+@inject IDbContextFactory<TestProduct.Data.MyDbContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Edit</PageTitle>
+
+<h1>Edit</h1>
+
+<h2>ProductModel</h2>
+<hr />
+@if (ProductModel is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="row">
+        <div class="col-md-4">
+            <EditForm method="post" Model="ProductModel" OnValidSubmit="UpdateProductModel" FormName="edit" Enhance>
+                <DataAnnotationsValidator />
+                <ValidationSummary role="alert"/>
+                <input type="hidden" name="ProductModel.Id" value="@ProductModel.Id" />
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name:</label>
+                    <InputText id="name" @bind-Value="ProductModel.Name" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.Name" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="price" class="form-label">Price:</label>
+                    <InputNumber id="price" @bind-Value="ProductModel.Price" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.Price" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Description:</label>
+                    <InputText id="description" @bind-Value="ProductModel.Description" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.Description" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="category" class="form-label">Category:</label>
+                    <InputText id="category" @bind-Value="ProductModel.Category" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.Category" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="stockquantity" class="form-label">StockQuantity:</label>
+                    <InputNumber id="stockquantity" @bind-Value="ProductModel.StockQuantity" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.StockQuantity" class="text-danger" />
+                </div>
+                <button type="submit" class="btn btn-primary">Save</button>
+            </EditForm>
+        </div>
+    </div>
+}
+
+<div>
+    <a href="/productmodels">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromQuery]
+    private int Id { get; set; }
+
+    [SupplyParameterFromForm]
+    private ProductModel? ProductModel { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        ProductModel ??= await context.Products.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (ProductModel is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    // To protect from overposting attacks, enable the specific properties you want to bind to.
+    // For more information, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task UpdateProductModel()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Attach(ProductModel!).State = EntityState.Modified;
+
+        try
+        {
+            await context.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!ProductModelExists(ProductModel!.Id))
+            {
+                NavigationManager.NavigateTo("notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        NavigationManager.NavigateTo("/productmodels");
+    }
+
+    private bool ProductModelExists(int id)
+    {
+        using var context = DbFactory.CreateDbContext();
+        return context.Products.Any(e => e.Id == id);
+    }
+}

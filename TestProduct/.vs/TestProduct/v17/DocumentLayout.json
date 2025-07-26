@@ -1,12 +1,244 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\pages\\productmodelpages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\pages\\productmodelpages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\pages\\productmodelpages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\pages\\productmodelpages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\pages\\productmodelpages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\pages\\productmodelpages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\pages\\productmodelpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\pages\\productmodelpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\testproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\testproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\components\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\components\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\testproduct\\testproduct\\testproduct.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{113C270D-585F-4ED6-A83E-25577FF0BC3C}|TestProduct\\TestProduct.csproj|solutionrelative:testproduct\\testproduct.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Index.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Pages\\ProductModelPages\\Index.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Index.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Pages\\ProductModelPages\\Index.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:32:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Edit.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Pages\\ProductModelPages\\Edit.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Edit.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Pages\\ProductModelPages\\Edit.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:32:51.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Delete.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Pages\\ProductModelPages\\Delete.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Delete.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Pages\\ProductModelPages\\Delete.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:32:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:32:41.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Create.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Pages\\ProductModelPages\\Create.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Pages\\ProductModelPages\\Create.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Pages\\ProductModelPages\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:31:27.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "TestProduct\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Models\\UserModel.cs",
+              "RelativeToolTip": "TestProduct\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:54:44.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "TestProduct\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "TestProduct\\Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:08:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Program.cs",
+              "RelativeDocumentMoniker": "TestProduct\\Program.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Program.cs",
+              "RelativeToolTip": "TestProduct\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:55:01.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:16:19.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "TestProduct\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Models\\ProductModel.cs",
+              "RelativeToolTip": "TestProduct\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:14:05.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\appsettings.json",
+              "RelativeDocumentMoniker": "TestProduct\\appsettings.json",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\appsettings.json",
+              "RelativeToolTip": "TestProduct\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T18:12:27.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Component.razor",
+              "RelativeDocumentMoniker": "TestProduct\\Components\\Component.razor",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\Components\\Component.razor",
+              "RelativeToolTip": "TestProduct\\Components\\Component.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T18:07:05.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestProduct.csproj",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\TestProduct.csproj",
+              "RelativeDocumentMoniker": "TestProduct\\TestProduct.csproj",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\TestProduct.csproj",
+              "RelativeToolTip": "TestProduct\\TestProduct.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T17:48:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestProduct",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\TestProduct.csproj",
+              "RelativeDocumentMoniker": "TestProduct\\TestProduct.csproj",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\TestProduct.csproj",
+              "RelativeToolTip": "TestProduct\\TestProduct.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-22T17:40:23.506Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

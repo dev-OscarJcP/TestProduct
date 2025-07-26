@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\backendtestproduct.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\backendtestproduct.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21866EAC-7B21-449D-B568-3079011813C3}|BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.infrastructure\\cloudservices\\interfaces\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21866EAC-7B21-449D-B568-3079011813C3}|BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj|solutionrelative:backendtestproduct.infrastructure\\cloudservices\\interfaces\\ifilestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21866EAC-7B21-449D-B568-3079011813C3}|BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21866EAC-7B21-449D-B568-3079011813C3}|BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj|solutionrelative:backendtestproduct.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21866EAC-7B21-449D-B568-3079011813C3}|BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.infrastructure\\backendtestproduct.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21866EAC-7B21-449D-B568-3079011813C3}|BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj|solutionrelative:backendtestproduct.infrastructure\\backendtestproduct.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\exceptions\\useralreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\exceptions\\useralreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\exceptions\\productalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\exceptions\\productalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|solutionrelative:backendtestproduct\\models\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|solutionrelative:backendtestproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|solutionrelative:backendtestproduct\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct\\backendtestproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|solutionrelative:backendtestproduct\\backendtestproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackEndTestProduct.Application",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj",
+              "RelativeToolTip": "BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T14:26:49.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Infrastructure\\CloudServices\\Interfaces\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Infrastructure\\CloudServices\\Interfaces\\IFileStorageService.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Infrastructure\\CloudServices\\Interfaces\\IFileStorageService.cs",
+              "RelativeToolTip": "BackEndTestProduct.Infrastructure\\CloudServices\\Interfaces\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:24:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "BackEndTestProduct.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:20:53.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackEndTestProduct.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj",
+              "RelativeToolTip": "BackEndTestProduct.Infrastructure\\BackEndTestProduct.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T14:19:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:17:16.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:16:52.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserAlreadyStartedException.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:05:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductAlreadyStartedException.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvw0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:04:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:00:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\User.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:00:07.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BackEndTestProduct\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:59:24.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T13:59:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\Models\\CreateUserModel.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct\\Models\\CreateUserModel.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\Models\\CreateUserModel.cs",
+              "RelativeToolTip": "BackEndTestProduct\\Models\\CreateUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:38:03.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackEndTestProduct\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:45.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackEndTestProduct.csproj",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\BackEndTestProduct.csproj",
+              "RelativeDocumentMoniker": "BackEndTestProduct\\BackEndTestProduct.csproj",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\BackEndTestProduct.csproj",
+              "RelativeToolTip": "BackEndTestProduct\\BackEndTestProduct.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T17:26:04.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

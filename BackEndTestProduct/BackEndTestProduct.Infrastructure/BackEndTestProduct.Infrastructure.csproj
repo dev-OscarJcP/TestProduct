@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Persistence\Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackEndTestProduct.Core\BackEndTestProduct.Core.csproj" />
+    <ProjectReference Include="..\BackEndTestProduct\BackEndTestProduct.csproj" />
+  </ItemGroup>
+
+</Project>

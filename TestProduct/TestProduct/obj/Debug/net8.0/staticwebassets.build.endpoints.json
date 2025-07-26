@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "TestProduct.hskmxo2hv4.styles.css",
+      "Route": "TestProduct.3iacdetov4.styles.css",
       "AssetFile": "TestProduct.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "6027"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,25 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw=\""
+          "Value": "\"1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:38:10 GMT"
+          "Value": "Tue, 22 Jul 2025 18:12:36 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hskmxo2hv4"
+          "Value": "3iacdetov4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw="
+          "Value": "sha256-1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0="
         },
         {
           "Name": "label",
@@ -62,7 +66,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "6027"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +74,95 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw=\""
+          "Value": "\"1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:38:10 GMT"
+          "Value": "Tue, 22 Jul 2025 18:12:36 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw="
+          "Value": "sha256-1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetFile": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:57:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
+      "AssetFile": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:38:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU="
         }
       ]
     },

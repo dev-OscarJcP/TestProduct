@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IHBjeUZi4D6tidsA7CzYBSFb5Sfpx4376ZwkweIjiOU=",
+  "Hash": "2bEHrNb3Q8MUEBJW+gkTtGGfg1ues9/giO9YgOGMhW0=",
   "Source": "TestProduct",
   "BasePath": "_content/TestProduct",
   "Mode": "Default",
@@ -17,6 +17,48 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "25o87uqmvr",
+      "Integrity": "Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "QuickGrid.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu7w3d5g1a",
+      "Integrity": "tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
+    },
+    {
       "Identity": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProduct.styles.css",
       "SourceId": "TestProduct",
       "SourceType": "Computed",
@@ -31,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "hskmxo2hv4",
-      "Integrity": "wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw=",
+      "Fingerprint": "3iacdetov4",
+      "Integrity": "1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProduct.styles.css"
@@ -144,6 +186,80 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetFile": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:57:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
+      "AssetFile": "C:\\Users\\oscar\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU="
+        }
+      ]
+    },
     {
       "Route": "app.css",
       "AssetFile": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\wwwroot\\app.css",
@@ -473,6 +589,55 @@
       ]
     },
     {
+      "Route": "TestProduct.3iacdetov4.styles.css",
+      "AssetFile": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProduct.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jul 2025 18:12:36 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3iacdetov4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0="
+        },
+        {
+          "Name": "label",
+          "Value": "TestProduct.styles.css"
+        }
+      ]
+    },
+    {
       "Route": "TestProduct.bundle.scp.css",
       "AssetFile": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestProduct.bundle.scp.css",
       "Selectors": [],
@@ -555,51 +720,6 @@
       ]
     },
     {
-      "Route": "TestProduct.hskmxo2hv4.styles.css",
-      "AssetFile": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProduct.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5905"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:38:10 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hskmxo2hv4"
-        },
-        {
-          "Name": "label",
-          "Value": "TestProduct.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw="
-        }
-      ]
-    },
-    {
       "Route": "TestProduct.styles.css",
       "AssetFile": "C:\\Users\\oscar\\Desktop\\testProduct\\TestProduct\\TestProduct\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TestProduct.styles.css",
       "Selectors": [],
@@ -609,8 +729,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "6027"
         },
         {
           "Name": "Content-Type",
@@ -618,21 +742,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw=\""
+          "Value": "\"1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 22 Jul 2025 17:38:10 GMT"
+          "Value": "Tue, 22 Jul 2025 18:12:36 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wZN8JAFl/chpWeriwKWhbnWGYMtVZUtZeqzShtJxFtw="
+          "Value": "sha256-1UrLiI7lPx+hPrVMIMfV1EjVJpHipllFsWpNr+rMpp0="
         }
       ]
     }

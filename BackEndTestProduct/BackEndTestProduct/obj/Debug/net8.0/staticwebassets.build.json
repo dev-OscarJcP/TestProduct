@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Pq+uRWPDLiLFIi6tjGKYrqyXKvfNcJSySAVV3cjGieo=",
+  "Source": "BackEndTestProduct",
+  "BasePath": "_content/BackEndTestProduct",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
