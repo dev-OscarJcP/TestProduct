@@ -4,7 +4,7 @@
 @using TestProduct.Models
 @using TestProduct.Data
 @implements IAsyncDisposable
-@inject IDbContextFactory<TestProduct.Data.MyDbContext> DbFactory
+@inject IDbContextFactory<TestProduct.Data.AppDbContext> DbFactory
 
 <PageTitle>Index</PageTitle>
 
@@ -16,9 +16,10 @@
 
 <QuickGrid Class="table" Items="context.Products">
     <PropertyColumn Property="productmodel => productmodel.Name" />
-    <PropertyColumn Property="productmodel => productmodel.Price" />
     <PropertyColumn Property="productmodel => productmodel.Description" />
+    <PropertyColumn Property="productmodel => productmodel.Price" />
     <PropertyColumn Property="productmodel => productmodel.Category" />
+    <PropertyColumn Property="productmodel => productmodel.ExpirationDate" />
     <PropertyColumn Property="productmodel => productmodel.StockQuantity" />
 
     <TemplateColumn Context="productmodel">
@@ -29,7 +30,7 @@
 </QuickGrid>
 
 @code {
-    private MyDbContext context = default!;
+    private AppDbContext context = default!;
 
     protected override void OnInitialized()
     {

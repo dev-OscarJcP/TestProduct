@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-
 using TestProduct.Components;
 using TestProduct.Data;
 
@@ -8,12 +7,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
-builder.Services.AddDbContext<MyDbContext>(x => x.UseInMemoryDatabase("App"));
-builder.Services.AddQuickGridEntityFrameworkAdapter();
+    builder.Services.AddDbContext<AppDbContext>(x => x.UseInMemoryDatabase("App"));
 
-builder.Services.AddQuickGridEntityFrameworkAdapter();
+    builder.Services.AddQuickGridEntityFrameworkAdapter();
 
-builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+    builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 var app = builder.Build();
 

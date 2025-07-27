@@ -1,7 +1,7 @@
 ﻿@page "/productmodels/edit"
 @using Microsoft.EntityFrameworkCore
 @using TestProduct.Models
-@inject IDbContextFactory<TestProduct.Data.MyDbContext> DbFactory
+@inject IDbContextFactory<TestProduct.Data.AppDbContext> DbFactory
 @inject NavigationManager NavigationManager
 
 <PageTitle>Edit</PageTitle>
@@ -28,19 +28,24 @@ else
                     <ValidationMessage For="() => ProductModel.Name" class="text-danger" />
                 </div>
                 <div class="mb-3">
-                    <label for="price" class="form-label">Price:</label>
-                    <InputNumber id="price" @bind-Value="ProductModel.Price" class="form-control" />
-                    <ValidationMessage For="() => ProductModel.Price" class="text-danger" />
-                </div>
-                <div class="mb-3">
                     <label for="description" class="form-label">Description:</label>
                     <InputText id="description" @bind-Value="ProductModel.Description" class="form-control" />
                     <ValidationMessage For="() => ProductModel.Description" class="text-danger" />
                 </div>
                 <div class="mb-3">
+                    <label for="price" class="form-label">Price:</label>
+                    <InputNumber id="price" @bind-Value="ProductModel.Price" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.Price" class="text-danger" />
+                </div>
+                <div class="mb-3">
                     <label for="category" class="form-label">Category:</label>
                     <InputText id="category" @bind-Value="ProductModel.Category" class="form-control" />
                     <ValidationMessage For="() => ProductModel.Category" class="text-danger" />
+                </div>
+                <div class="mb-3">
+                    <label for="expirationdate" class="form-label">ExpirationDate:</label>
+                    <InputDate id="expirationdate" @bind-Value="ProductModel.ExpirationDate" class="form-control" />
+                    <ValidationMessage For="() => ProductModel.ExpirationDate" class="text-danger" />
                 </div>
                 <div class="mb-3">
                     <label for="stockquantity" class="form-label">StockQuantity:</label>

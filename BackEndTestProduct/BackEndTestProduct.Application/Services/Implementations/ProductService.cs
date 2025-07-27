@@ -55,16 +55,17 @@ namespace BackEndTestProduct.Application.Services.Implementations
         {
             var products = _AppDbContext.Products;
             var productsViewModel = products
-                .Select(p => new ProductViewModel(p.Name, p.Description, p.Price, p.StockQuantity, p.Category, p.ExpirationDate))
+                .Select(p => new ProductViewModel (p.Id,p.Name, p.Description, p.Price, p.StockQuantity, p.Category, p.ExpirationDate))
                 .ToList();
             return productsViewModel;
         }        
-        public int GetById(int id)
+        public ProductViewModel GetById(int id)
         {
             var product = _AppDbContext.Products.SingleOrDefault(p => p.Id == id);
             if (product == null) throw new KeyNotFoundException($"Product with ID {id} not found.");
-            new ProductViewModel(product.Name, product.Description, product.Price, product.StockQuantity, product.Category, product.ExpirationDate);
-            return product.Id;
+            return new ProductViewModel(product.Id, product.Name, product.Description, product.Price, product.StockQuantity, product.Category, product.ExpirationDate);
+            
+            
         }
 
     }
