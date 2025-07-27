@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\inputmodels\\updateuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\inputmodels\\updateuserinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\exceptions\\useralreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\exceptions\\useralreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\exceptions\\productalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\exceptions\\productalreadystartedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3073B5E1-2E42-4A2A-9367-F892B7348C98}|BackEndTestProduct.Core\\BackEndTestProduct.Core.csproj|solutionrelative:backendtestproduct.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45F7B60-7A37-403B-91D3-8723B7A7B53A}|BackEndTestProduct.Application\\BackEndTestProduct.Application.csproj|solutionrelative:backendtestproduct.application\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59CD2CE0-C89C-4118-A9EE-14628BAFD375}|BackEndTestProduct\\BackEndTestProduct.csproj|c:\\users\\oscar\\desktop\\testproduct\\backendtestproduct\\backendtestproduct\\backendtestproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,72 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 248,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\ViewModels\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\ViewModels\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\ViewModels\\ProductViewModel.cs",
-              "RelativeToolTip": "BackEndTestProduct.Application\\ViewModels\\ProductViewModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAgAAAAAAAAAA==",
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "BackEndTestProduct.Application\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T17:11:07.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserAlreadyStartedException.cs",
-              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
-              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
-              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
-              "RelativeToolTip": "BackEndTestProduct.Core\\Exceptions\\UserAlreadyStartedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T14:05:20.177Z"
+              "WhenOpened": "2025-07-27T21:14:07.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAQwA4AAAAxAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\User.cs*",
+              "RelativeToolTip": "BackEndTestProduct.Core\\Entities\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T16:02:39.481Z",
+              "WhenOpened": "2025-07-27T21:08:19.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductAlreadyStartedException.cs",
-              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
-              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
-              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
-              "RelativeToolTip": "BackEndTestProduct.Core\\Exceptions\\ProductAlreadyStartedException.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvw0AAAAHAAAAAAAAAA==",
+              "Title": "UpdateUserInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\InputModels\\UpdateUserInputModel.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\InputModels\\UpdateUserInputModel.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\InputModels\\UpdateUserInputModel.cs",
+              "RelativeToolTip": "BackEndTestProduct.Application\\InputModels\\UpdateUserInputModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T14:04:05.546Z"
+              "WhenOpened": "2025-07-27T21:00:10.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Implementations\\UserService.cs*",
+              "RelativeToolTip": "BackEndTestProduct.Application\\Services\\Implementations\\UserService.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:57:36.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "BackEndTestProduct.Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAjAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "BackEndTestProduct.Application\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T13:59:11.549Z"
+              "WhenOpened": "2025-07-27T20:43:15.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BackEndTestProduct.Application\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:57:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BackEndTestProduct.Application\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct.Application\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "BackEndTestProduct.Application\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T20:48:51.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BackEndTestProduct.csproj",
               "DocumentMoniker": "C:\\Users\\oscar\\Desktop\\testProduct\\BackEndTestProduct\\BackEndTestProduct\\BackEndTestProduct.csproj",
               "RelativeDocumentMoniker": "BackEndTestProduct\\BackEndTestProduct.csproj",
@@ -107,7 +145,8 @@
               "RelativeToolTip": "BackEndTestProduct\\BackEndTestProduct.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-25T17:26:04.85Z"
+              "WhenOpened": "2025-07-25T17:26:04.85Z",
+              "EditorCaption": ""
             }
           ]
         }

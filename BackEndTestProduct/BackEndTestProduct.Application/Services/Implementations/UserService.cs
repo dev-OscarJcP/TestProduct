@@ -30,31 +30,37 @@ namespace BackEndTestProduct.Application.Services.Implementations
             _appDbContext.Users.Add(newUser);
             return newUser.Id;
         }
-        public void Delete(int id)
+        public void Delete(int nif)
         {
-            var user = _appDbContext.Users.FirstOrDefault(u => u.Id == id);
-            if (user == null) throw new KeyNotFoundException($"User with ID {id} not found.");
+            var user = _appDbContext.Users.FirstOrDefault(u => u.Id == nif);
+            if (user == null) throw new KeyNotFoundException($"User with ID {nif} not found.");
             _appDbContext.Users.Remove(user);
         }
-        public void Update(UpdateUserInputModel user)
+        public void Update(int nif, UpdateUserInputModel user)
         {
             if (user == null) throw new ArgumentNullException(nameof(user));
-            var existingUser = _appDbContext.Users.SingleOrDefault(u => u.Id == id);
-            if (existingUser == null) throw new KeyNotFoundException($"User with ID {id} not found.");
-            existingUser.Update(user.password, user.isAdmin);
+            var existingUser = _appDbContext.Users.SingleOrDefault(u => u.Id == nif);
+
+            if (existingUser == null) throw new KeyNotFoundException($"User with ID {nif} not found.");
+
+            existingUser.Update(user.Password, user.IsAdmin);
+            new UserViewModel(existingUser.Nif, existingUser.IsActive, existingUser.IsAdmin);
+
         }
         public List<UserViewModel> GetAll(string query)
         {
             var users = _appDbContext.Users;
             var userViewModel = users
-                .Select(p => new UserViewModel(p.Nif,p.IsActive,p.IsAdmin))
+                .Select(p => new UserViewModel(p.Nif, p.IsActive, p.IsAdmin))
                 .ToList();
             return userViewModel;
         }
-        public int GetById(int id)
+        public UserViewModel GetById(int id)
         {
             var user = _appDbContext.Users.SingleOrDefault(p => p.Id == id);
             if (user == null) throw new KeyNotFoundException($"User with ID {id} not found.");
-            return user.Id;
+            return new UserViewModel(user.Nif, user.IsActive, user.IsAdmin);
+            
         }
+    } 
 }

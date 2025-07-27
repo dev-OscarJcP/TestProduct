@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace BackEndTestProduct.Core.Entities
 {
     public class User : BaseEntity
@@ -12,5 +13,11 @@ namespace BackEndTestProduct.Core.Entities
         public string Password { get; set; }
         public bool IsAdmin { get; set; }
         public bool IsActive { get; set; }
+
+        public void Update(string password, bool isAdmin)
+        {
+            Password = password;
+            IsAdmin = isAdmin;
+        }
     }
 }

@@ -44,7 +44,7 @@ namespace BackEndTestProduct.Application.Services.Implementations
         public void Update(int id, UpdateProductInputModel product)
         {
             if (product == null) throw new ArgumentNullException(nameof(product));
-            var existingProduct = _AppDbContext.Products.FirstOrDefault(p => p.Id == id);
+            var existingProduct = _AppDbContext.Products.SingleOrDefault(p => p.Id == id);
             if (existingProduct == null) throw new KeyNotFoundException($"Product with ID {id} not found.");
 
             existingProduct.Update(product.Description, product.Price, product.StockQuantity, product.IsActive, product.Category);
